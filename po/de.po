@@ -182,7 +182,7 @@ msgstr "Album abspielen"
 
 #: argos/ui/album_details_box.ui:420
 msgid "Information on album"
-msgstr ""
+msgstr "Informationen zum Album"
 
 #: argos/ui/app_menu.ui:6
 msgid "Play _random tracks…"
@@ -202,15 +202,15 @@ msgstr "Sammlung aktualisieren"
 
 #: argos/ui/app_menu.ui:26
 msgid "_Preferences"
-msgstr "Einstellungen"
+msgstr "_Einstellungen"
 
 #: argos/ui/app_menu.ui:30
 msgid "_Shortcuts"
-msgstr "Tastenkürzel"
+msgstr "_Tastenkürzel"
 
 #: argos/ui/app_menu.ui:34
 msgid "_About"
-msgstr "Über Argos"
+msgstr "_Über Argos"
 
 #: argos/ui/condensed_playing_box.ui:65 argos/ui/playing_box.ui:81
 msgid "Previous"
@@ -272,7 +272,7 @@ msgstr "Zurück"
 #: argos/ui/help_overlay.ui:72
 msgctxt "shortcut window"
 msgid "Play random album"
-msgstr "Zufälliges Album"
+msgstr "Zufälliges Album abspielen"
 
 #: argos/ui/help_overlay.ui:81
 msgctxt "shortcut window"
@@ -282,7 +282,7 @@ msgstr "Navigation"
 #: argos/ui/help_overlay.ui:85
 msgctxt "shortcut window"
 msgid "Go to Playing"
-msgstr "Jetzt läuft.."
+msgstr "Jetzt läuft"
 
 #: argos/ui/help_overlay.ui:92
 msgctxt "shortcut window"
@@ -596,11 +596,11 @@ msgstr "Disk {0}"
 
 #: argos/widgets/utils.py:176
 msgid "Album name"
-msgstr "Album"
+msgstr "Albumname"
 
 #: argos/widgets/utils.py:177
 msgid "Artist name"
-msgstr "Künstler"
+msgstr "Künstlername"
 
 #: argos/widgets/utils.py:178
 msgid "Publication date"
