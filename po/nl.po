@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: io.github.orontee.Argos\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-09 09:10+0200\n"
-"PO-Revision-Date: 2024-12-07 19:28+0000\n"
+"PO-Revision-Date: 2024-12-07 20:57+0000\n"
 "Last-Translator: Matthias Meulien <orontee@gmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/argos/argos/nl/>\n"
 "Language: nl\n"
@@ -725,7 +725,7 @@ msgstr "Uitgave tijdens kiespijndag - gebruik is op eigen risico!"
 
 #: data/io.github.orontee.Argos.appdata.xml.in:144
 msgid "Matthias Meulien"
-msgstr "Matthias Meulien"
+msgstr ""
 
 #: data/io.github.orontee.Argos.gschema.xml:6
 msgid "Connection retry delay"
