@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-09 09:10+0200\n"
-"PO-Revision-Date: 2024-12-07 19:45+0000\n"
+"PO-Revision-Date: 2024-12-07 20:57+0000\n"
 "Last-Translator: Matthias Meulien <orontee@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/argos/argos/es/>"
 "\n"
@@ -733,7 +733,7 @@ msgstr ""
 
 #: data/io.github.orontee.Argos.appdata.xml.in:144
 msgid "Matthias Meulien"
-msgstr "Matthias Meulien"
+msgstr ""
 
 #: data/io.github.orontee.Argos.gschema.xml:6
 msgid "Connection retry delay"
